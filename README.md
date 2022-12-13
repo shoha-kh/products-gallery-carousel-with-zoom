@@ -1,5 +1,5 @@
 # Product Gallery Carousel with Zoom Effect
-## Plugins: Swiper and EasyZoom
+## Plugins: Swiper(v5.2.0) and EasyZoom(v2.5.2)
 
 *Example:* https://codepen.io/k1ngzed/pen/abbjZba
 
